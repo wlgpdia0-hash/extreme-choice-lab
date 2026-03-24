@@ -1,0 +1,3 @@
+# SPA 라우팅을 위한 리다이렉트
+# 모든 요청을 index.html로 리다이렉트
+/*  /index.html  200
